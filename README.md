@@ -19,7 +19,7 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 
 <br>
 
-## <h3 align="right" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
+## <h3 align="center" style="font-size: 1.5rem">🛠 What I had learned so far</h3>
 
 
 
@@ -64,7 +64,7 @@ I also have experience with **MongoDB** and **Express** for managing database AP
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=HTMLSlander&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=HTMLProgrammer30&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
